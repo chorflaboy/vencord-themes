@@ -1,0 +1,21 @@
+/**
+ * @name twitch
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.1;
+    --messagetransparency: 0.35;
+    --guildchanneltransparency: 0.3;
+    --memberlistransparency: 0.2;
+    --accentcolor: 238,197,165;
+    --background: url("https://i.ibb.co/ZVgSsS3/twitch-lol-splash-art-wild-rift-8k-wallpaper-uhdpaper-com-328-1-k.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
